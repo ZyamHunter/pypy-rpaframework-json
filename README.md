@@ -1,5 +1,3 @@
-[![Standard](https://github.com/ZyamHunter/pypy-rpaframework-json/actions/workflows/standard.yaml/badge.svg)](https://github.com/ZyamHunter/pypy-rpaframework-json/actions/workflows/standard.yaml)
-
 # pypy-rpaframework-json
 Repositório de testes dedicados ao uso da biblioteca rpaframework com tables utilizando o compilador pypy ao invés do cpython
 
