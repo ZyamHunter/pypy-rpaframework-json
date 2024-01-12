@@ -1,5 +1,5 @@
 # pypy-rpaframework-json
-Repositório de testes dedicados ao uso da biblioteca rpaframework com tables utilizando o compilador pypy ao invés do cpython
+Repositório de testes dedicados ao uso da biblioteca rpaframework com json utilizando o compilador pypy ao invés do cpython
 
 # robot
 > Repositório de testes dedicados ao uso da bibliotecas rpaframework com json 
